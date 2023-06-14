@@ -1,1 +1,1 @@
-# market_segmentation_mcdonalds
+Market Segmentation Analysis on McDonlad's dataset using Kmeans Clustering.
